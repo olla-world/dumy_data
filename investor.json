@@ -1,1 +1,5 @@
-{"access": "investor"}
+{
+    "type": "investor",
+    "id": 1,
+    "user_name": "Investor-1"
+}

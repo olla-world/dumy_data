@@ -1,1 +1,5 @@
-{"access": "desk_2"}
+{
+    "type": "desk",
+    "id": 2,
+    "user_name": "Desk-2"
+}
